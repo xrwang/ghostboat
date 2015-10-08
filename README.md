@@ -1,3 +1,5 @@
 Ghost Boat!
 
-Map mania. Using Mapbox API for base. 
+Map mania.
+https://medium.com/ghostboat
+
