@@ -1,0 +1,1012 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "538001641",
+        "COURSE": "21",
+        "SPEED": "0.1",
+        "HEADING": "280",
+        "IMO": "9224271",
+        "NAME": "GENMAR ORION",
+        "CALLSIGN": "V7DH8",
+        "AISTYPE": "80",
+        "A": "231",
+        "B": "43",
+        "C": "17",
+        "D": "31",
+        "DRAUGHT": "13",
+        "DESTINATION": "MALTA",
+        "ETA": "5/27/15 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.89198,
+          35.88782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "308287000",
+        "COURSE": "330.5",
+        "SPEED": "0",
+        "HEADING": "0",
+        "IMO": "9138616",
+        "NAME": "AMAZON",
+        "CALLSIGN": "C6QI2",
+        "AISTYPE": "70",
+        "A": "142",
+        "B": "30",
+        "C": "18",
+        "D": "7",
+        "DRAUGHT": "9.8",
+        "DESTINATION": "MISURATA",
+        "ETA": "6/9/15 19:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.22341,
+          32.36288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "477958500",
+        "COURSE": "59",
+        "SPEED": "0",
+        "HEADING": "511",
+        "IMO": "9175781",
+        "NAME": "ANTWERP",
+        "CALLSIGN": "VRDG3",
+        "AISTYPE": "70",
+        "A": "137",
+        "B": "18",
+        "C": "11",
+        "D": "14",
+        "DRAUGHT": "6.7",
+        "DESTINATION": "MARSAXLOKK",
+        "ETA": "6/26/15 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.53392,
+          35.82164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "636012392",
+        "COURSE": "360",
+        "SPEED": "102.3",
+        "HEADING": "344",
+        "IMO": "9167136",
+        "NAME": "CHEMTRANS RHINE",
+        "CALLSIGN": "A8FF3",
+        "AISTYPE": "89",
+        "A": "136",
+        "B": "36",
+        "C": "9",
+        "D": "19",
+        "DRAUGHT": "11.7",
+        "DESTINATION": "MALTA OPL",
+        "ETA": "6/23/15 3:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.88906,
+          35.99625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "576388000",
+        "COURSE": "198.7",
+        "SPEED": "0",
+        "HEADING": "322",
+        "IMO": "9412270",
+        "NAME": "KEHOE TIDE",
+        "CALLSIGN": "YJVK2",
+        "AISTYPE": "95",
+        "A": "15",
+        "B": "45",
+        "C": "8",
+        "D": "6",
+        "DRAUGHT": "5",
+        "DESTINATION": "ZARZIS",
+        "ETA": "6/26/15 11:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.118,
+          33.48463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "319018000",
+        "COURSE": "199.7",
+        "SPEED": "0",
+        "HEADING": "220",
+        "IMO": "1009546",
+        "NAME": "MARTHA ANN",
+        "CALLSIGN": "ZCTZ2",
+        "AISTYPE": "37",
+        "A": "50",
+        "B": "20",
+        "C": "6",
+        "D": "6",
+        "DRAUGHT": "3.7",
+        "DESTINATION": "VALLETTA",
+        "ETA": "6/20/15 16:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.51793,
+          35.89085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "642137027",
+        "COURSE": "5.1",
+        "SPEED": "0.1",
+        "HEADING": "160",
+        "IMO": "9141259",
+        "NAME": "MASHHOUDA",
+        "CALLSIGN": "5ATM",
+        "AISTYPE": "80",
+        "A": "94",
+        "B": "21",
+        "C": "9",
+        "D": "9",
+        "DRAUGHT": "5.7",
+        "DESTINATION": "BENGHAZI",
+        "ETA": "6/3/15 3:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.04194,
+          32.11458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "319024600",
+        "COURSE": "260.9",
+        "SPEED": "12",
+        "HEADING": "263",
+        "IMO": "9450674",
+        "NAME": "FOUR RIGOLETTO",
+        "CALLSIGN": "ZGBI4",
+        "AISTYPE": "70",
+        "A": "152",
+        "B": "29",
+        "C": "8",
+        "D": "22",
+        "DRAUGHT": "9.9",
+        "DESTINATION": "SFAX TN",
+        "ETA": "6/29/15 16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9637,
+          35.9177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "247147480",
+        "COURSE": "167.7",
+        "SPEED": "0.7",
+        "HEADING": "511",
+        "IMO": "0",
+        "NAME": "PRINCIPESSA PRIMA",
+        "CALLSIGN": "INCP",
+        "AISTYPE": "30",
+        "A": "0",
+        "B": "0",
+        "C": "0",
+        "D": "0",
+        "DRAUGHT": "4",
+        "DESTINATION": "RIMORCHIARE CABBIA",
+        "ETA": "5/10/15 2:40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.06564,
+          36.94419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "636014514",
+        "COURSE": "95",
+        "SPEED": "10.8",
+        "HEADING": "97",
+        "IMO": "9296248",
+        "NAME": "OCEAN LION",
+        "CALLSIGN": "A8UK7",
+        "AISTYPE": "70",
+        "A": "197",
+        "B": "28",
+        "C": "21",
+        "D": "11",
+        "DRAUGHT": "14",
+        "DESTINATION": "EREGLI",
+        "ETA": "7/1/15 12:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.19707,
+          36.23035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "636014648",
+        "COURSE": "288",
+        "SPEED": "20.7",
+        "HEADING": "289",
+        "IMO": "9447897",
+        "NAME": "TEMPANOS",
+        "CALLSIGN": "A8VP9",
+        "AISTYPE": "91",
+        "A": "229",
+        "B": "71",
+        "C": "29",
+        "D": "17",
+        "DRAUGHT": "12.8",
+        "DESTINATION": "PORT TANGIER",
+        "ETA": "6/30/15 5:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3225,
+          35.19217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "636015477",
+        "COURSE": "262.2",
+        "SPEED": "0.1",
+        "HEADING": "195",
+        "IMO": "8800315",
+        "NAME": "USOLIE",
+        "CALLSIGN": "D5AZ6",
+        "AISTYPE": "70",
+        "A": "197",
+        "B": "28",
+        "C": "16",
+        "D": "16",
+        "DRAUGHT": "12.1",
+        "DESTINATION": "VALLETTA",
+        "ETA": "6/27/15 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.59452,
+          35.83714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "636091664",
+        "COURSE": "90",
+        "SPEED": "15.6",
+        "HEADING": "90",
+        "IMO": "9508299",
+        "NAME": "VEGA AQUILA",
+        "CALLSIGN": "A8RJ7",
+        "AISTYPE": "72",
+        "A": "124",
+        "B": "15",
+        "C": "14",
+        "D": "9",
+        "DRAUGHT": "7.8",
+        "DESTINATION": "PIRAEUS",
+        "ETA": "6/28/15 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.21735,
+          36.12749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "248000540",
+        "COURSE": "340.4",
+        "SPEED": "6.9",
+        "HEADING": "511",
+        "IMO": "0",
+        "NAME": "EOLO",
+        "CALLSIGN": "9H6211",
+        "AISTYPE": "30",
+        "A": "7",
+        "B": "12",
+        "C": "2",
+        "D": "3",
+        "DRAUGHT": "19.3",
+        "DESTINATION": "N/A",
+        "ETA": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.51902,
+          35.91855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "247078600",
+        "COURSE": "148",
+        "SPEED": "0.1",
+        "HEADING": "39",
+        "IMO": "9250074",
+        "NAME": "LIPARI M",
+        "CALLSIGN": "IBJZ",
+        "AISTYPE": "82",
+        "A": "50",
+        "B": "30",
+        "C": "8",
+        "D": "7",
+        "DRAUGHT": "5.4",
+        "DESTINATION": "LINOSA",
+        "ETA": "6/26/15 4:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.87333,
+          35.8475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "256489000",
+        "COURSE": "330.8",
+        "SPEED": "0.1",
+        "HEADING": "320",
+        "IMO": "8013091",
+        "NAME": "BALLUTA BAY",
+        "CALLSIGN": "9HVQ8",
+        "AISTYPE": "80",
+        "A": "68",
+        "B": "11",
+        "C": "5",
+        "D": "8",
+        "DRAUGHT": "4.1",
+        "DESTINATION": "VALLETTA",
+        "ETA": "5/28/15 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.75565,
+          35.904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "215871000",
+        "COURSE": "66.1",
+        "SPEED": "0.1",
+        "HEADING": "321",
+        "IMO": "9261401",
+        "NAME": "BALTIC WIND",
+        "CALLSIGN": "9HDM8",
+        "AISTYPE": "80",
+        "A": "154",
+        "B": "29",
+        "C": "14",
+        "D": "14",
+        "DRAUGHT": "7.3",
+        "DESTINATION": "MALTA FOR ORDER",
+        "ETA": "6/20/15 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.90388,
+          35.98085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "636014904",
+        "COURSE": "78.7",
+        "SPEED": "13.1",
+        "HEADING": "75",
+        "IMO": "9522910",
+        "NAME": "SHAH",
+        "CALLSIGN": "A8XI8",
+        "AISTYPE": "79",
+        "A": "154",
+        "B": "32",
+        "C": "21",
+        "D": "7",
+        "DRAUGHT": "6.1",
+        "DESTINATION": "KAVKAZ",
+        "ETA": "7/1/15 11:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.83051,
+          35.77922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "352630000",
+        "COURSE": "91.5",
+        "SPEED": "14",
+        "HEADING": "91",
+        "IMO": "9446611",
+        "NAME": "ORANGE TIGER",
+        "CALLSIGN": "3FXI7",
+        "AISTYPE": "70",
+        "A": "254",
+        "B": "38",
+        "C": "30",
+        "D": "15",
+        "DRAUGHT": "17.8",
+        "DESTINATION": "EREGLI TURKEY",
+        "ETA": "6/30/15 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.39276,
+          36.28534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "636015001",
+        "COURSE": "190.8",
+        "SPEED": "0.1",
+        "HEADING": "320",
+        "IMO": "9127007",
+        "NAME": "JAGUAR",
+        "CALLSIGN": "A8XZ3",
+        "AISTYPE": "70",
+        "A": "136",
+        "B": "21",
+        "C": "12",
+        "D": "11",
+        "DRAUGHT": "6.4",
+        "DESTINATION": "MARSAXLOKK",
+        "ETA": "6/27/15 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.65408,
+          35.85386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "636090831",
+        "COURSE": "151",
+        "SPEED": "0.3",
+        "HEADING": "511",
+        "IMO": "9214537",
+        "NAME": "JOP",
+        "CALLSIGN": "A8GI6",
+        "AISTYPE": "70",
+        "A": "144",
+        "B": "25",
+        "C": "23",
+        "D": "7",
+        "DRAUGHT": "5.7",
+        "DESTINATION": "TUZLA",
+        "ETA": "8/30/15 13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.84691,
+          35.83234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "538080087",
+        "COURSE": "285",
+        "SPEED": "14.7",
+        "HEADING": "283",
+        "IMO": "9563524",
+        "NAME": "EXCELLENCE V",
+        "CALLSIGN": "V7XA7",
+        "AISTYPE": "37",
+        "A": "18",
+        "B": "42",
+        "C": "6",
+        "D": "6",
+        "DRAUGHT": "3.4",
+        "DESTINATION": "NICE",
+        "ETA": "6/30/15 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.21763,
+          36.68843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "538004399",
+        "COURSE": "297",
+        "SPEED": "15.3",
+        "HEADING": "301",
+        "IMO": "9123520",
+        "NAME": "SONOMA",
+        "CALLSIGN": "V7U02",
+        "AISTYPE": "72",
+        "A": "161",
+        "B": "18",
+        "C": "12",
+        "D": "13",
+        "DRAUGHT": "7.7",
+        "DESTINATION": "SALERNO",
+        "ETA": "6/29/15 7:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.02065,
+          36.13512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "248939000",
+        "COURSE": "266",
+        "SPEED": "9.3",
+        "HEADING": "266",
+        "IMO": "9451094",
+        "NAME": "CELEBRITYSILHOUETTE",
+        "CALLSIGN": "9HA2583",
+        "AISTYPE": "60",
+        "A": "42",
+        "B": "277",
+        "C": "24",
+        "D": "24",
+        "DRAUGHT": "8.6",
+        "DESTINATION": "VALLETTA",
+        "ETA": "6/28/15 4:45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.07084,
+          36.52356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "305050000",
+        "COURSE": "301",
+        "SPEED": "5.2",
+        "HEADING": "297",
+        "IMO": "9126259",
+        "NAME": "BF VALENCIA",
+        "CALLSIGN": "V2CN4",
+        "AISTYPE": "70",
+        "A": "92",
+        "B": "8",
+        "C": "17",
+        "D": "1",
+        "DRAUGHT": "4.8",
+        "DESTINATION": "MALTA",
+        "ETA": "6/28/15 8:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.85433,
+          35.92933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "370045000",
+        "COURSE": "92",
+        "SPEED": "11.2",
+        "HEADING": "93",
+        "IMO": "9225328",
+        "NAME": "ASTON I",
+        "CALLSIGN": "3ETM2",
+        "AISTYPE": "81",
+        "A": "159",
+        "B": "24",
+        "C": "10",
+        "D": "18",
+        "DRAUGHT": "8",
+        "DESTINATION": "TUAPSE",
+        "ETA": "7/3/15 4:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.08757,
+          36.50249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "538090199",
+        "COURSE": "132",
+        "SPEED": "0",
+        "HEADING": "132",
+        "IMO": "9318254",
+        "NAME": "SENA KALKAVAN",
+        "CALLSIGN": "V7JH2",
+        "AISTYPE": "71",
+        "A": "138",
+        "B": "11",
+        "C": "11",
+        "D": "11",
+        "DRAUGHT": "7.7",
+        "DESTINATION": "CATANIA\\ITALY",
+        "ETA": "6/29/15 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.53869,
+          35.81836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "371005000",
+        "COURSE": "134",
+        "SPEED": "0.1",
+        "HEADING": "285",
+        "IMO": "9310707",
+        "NAME": "CHALLENGE PASSAGE",
+        "CALLSIGN": "3EAT3",
+        "AISTYPE": "89",
+        "A": "147",
+        "B": "33",
+        "C": "21",
+        "D": "11",
+        "DRAUGHT": "11.5",
+        "DESTINATION": "MALTA",
+        "ETA": "6/27/15 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.85212,
+          35.9114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "247154200",
+        "COURSE": "0",
+        "SPEED": "0",
+        "HEADING": "511",
+        "IMO": "0",
+        "NAME": "COMAR PRIMO",
+        "CALLSIGN": "IQVX",
+        "AISTYPE": "0",
+        "A": "30",
+        "B": "3",
+        "C": "10",
+        "D": "6",
+        "DRAUGHT": "18",
+        "DESTINATION": "RIPOSTO",
+        "ETA": "7/14/15 16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.09979,
+          37.48913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "271000656",
+        "COURSE": "109",
+        "SPEED": "11.7",
+        "HEADING": "107",
+        "IMO": "8811390",
+        "NAME": "BAKU",
+        "CALLSIGN": "TCCD5",
+        "AISTYPE": "70",
+        "A": "130",
+        "B": "35",
+        "C": "22",
+        "D": "11",
+        "DRAUGHT": "6.7",
+        "DESTINATION": "PIRAEUS",
+        "ETA": "6/29/15 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.90842,
+          36.5384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "244730250",
+        "COURSE": "79.9",
+        "SPEED": "0.1",
+        "HEADING": "511",
+        "IMO": "0",
+        "NAME": "S/Y KINGFISHER",
+        "CALLSIGN": "PB9310",
+        "AISTYPE": "37",
+        "A": "19",
+        "B": "1",
+        "C": "3",
+        "D": "2",
+        "DRAUGHT": "0",
+        "DESTINATION": "",
+        "ETA": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.29893,
+          36.0258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "256901000",
+        "COURSE": "105.8",
+        "SPEED": "11.2",
+        "HEADING": "107",
+        "IMO": "9288796",
+        "NAME": "MT LUCKY LADY",
+        "CALLSIGN": "9HA2958",
+        "AISTYPE": "81",
+        "A": "142",
+        "B": "34",
+        "C": "8",
+        "D": "23",
+        "DRAUGHT": "7.8",
+        "DESTINATION": "OPL PORT SAID",
+        "ETA": "6/30/15 9:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.14015,
+          36.31735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "247003700",
+        "COURSE": "195",
+        "SPEED": "10.6",
+        "HEADING": "200",
+        "IMO": "8407450",
+        "NAME": "PAOLO VERONESE",
+        "CALLSIGN": "IBGA",
+        "AISTYPE": "60",
+        "A": "13",
+        "B": "78",
+        "C": "10",
+        "D": "6",
+        "DRAUGHT": "3.9",
+        "DESTINATION": "TRAPANI",
+        "ETA": "6/24/15 17:45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.23742,
+          37.55088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "235051109",
+        "COURSE": "225.7",
+        "SPEED": "0",
+        "HEADING": "511",
+        "IMO": "9428255",
+        "NAME": "DIANE",
+        "CALLSIGN": "MFHF",
+        "AISTYPE": "37",
+        "A": "10",
+        "B": "34",
+        "C": "5",
+        "D": "2",
+        "DRAUGHT": "2.1",
+        "DESTINATION": "VALLETTA",
+        "ETA": "6/25/15 12:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.50121,
+          35.90193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "248298000",
+        "COURSE": "106",
+        "SPEED": "11.2",
+        "HEADING": "103",
+        "IMO": "9315771",
+        "NAME": "SEAVALOUR",
+        "CALLSIGN": "9HA2304",
+        "AISTYPE": "81",
+        "A": "149",
+        "B": "34",
+        "C": "11",
+        "D": "21",
+        "DRAUGHT": "9.7",
+        "DESTINATION": "DHEKELIA",
+        "ETA": "6/30/15 12:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.96205,
+          35.88577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DATE TIME (UTC)": "6/27/14 23:59",
+        "MMSI": "265621840",
+        "COURSE": "54.2",
+        "SPEED": "0",
+        "HEADING": "511",
+        "IMO": "0",
+        "NAME": "MIRA BELLO",
+        "CALLSIGN": "",
+        "AISTYPE": "36",
+        "A": "0",
+        "B": "0",
+        "C": "0",
+        "D": "0",
+        "DRAUGHT": "0",
+        "DESTINATION": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.09285,
+          37.49986
+        ]
+      }
+    }
+  ]
+}
